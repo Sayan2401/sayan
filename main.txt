@@ -6,3 +6,4 @@ this is will conflict.
 >>>>>>> my-branch
 Some new line for my branch
 another line.
+last line.
