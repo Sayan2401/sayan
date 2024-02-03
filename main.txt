@@ -1,9 +1,9 @@
 hiiii sayan.
-<<<<<<< HEAD
+
 this should cretae conflict.
-=======
+
 this is will conflict.
->>>>>>> my-branch
+
 Some new line for my branch
 another line.
 last line.
